@@ -1,0 +1,3 @@
+Wireless Mouse,USB Wireless Mouse,P00001,19.99
+Keyboard,Mechanical Keyboard,P00002,49.99
+Monitor,24-Inch Monitor,P00003,129.99
